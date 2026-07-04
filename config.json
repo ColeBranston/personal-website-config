@@ -167,6 +167,7 @@
     {
       "name": "ProgressX",
       "type": "Full Stack Web Application",
+      "link": "https://github.com/ColeBranston/ProgressX"
       "description": "Built a fitness social media platform for diet and progress photo tracking with semantic search for up-to-date fitness and wellness studies.",
       "features": [
         "Diet tracking",
