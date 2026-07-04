@@ -1,0 +1,210 @@
+{
+  "personal": {
+    "name": "Cole Branston",
+    "phone": "+1 (519) 871-5615",
+    "email": "colebranston@gmail.com",
+    "location": {
+      "city": "Toronto",
+      "province": "Ontario",
+      "country": "Canada"
+    },
+    "linkedin": "https://www.linkedin.com/in/cole-branston/",
+    "portfolio": "https://colebranston.github.io/"
+  },
+  "education": {
+    "institution": "University of Western Ontario",
+    "degree": "Bachelor of Engineering Science (B.E.Sc.)",
+    "major": "Software Engineering",
+    "expected_graduation": "2027",
+    "awards": [
+      "2023 Schulich Leader Scholarship",
+      "Giopalm Scholarship"
+    ]
+  },
+  "skills": {
+    "languages": [
+      "Java",
+      "TypeScript",
+      "Python",
+      "HTML5",
+      "CSS",
+      "C#",
+      "SQL"
+    ],
+    "frameworks": [
+      "React.js",
+      "Next.js",
+      "Express.js",
+      "Electron.js",
+      "Spring Boot",
+      "Thymeleaf",
+      "FastAPI",
+      "LangGraph"
+    ],
+    "databases": [
+      "MongoDB",
+      "PostgreSQL",
+      "Redis"
+    ],
+    "cloud": [
+      "AWS",
+      "Google Cloud Platform (GCP)",
+      "OpenShift"
+    ],
+    "devops": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD"
+    ],
+    "data": [
+      "Kafka",
+      "Apache Solr",
+      "Apache Spark"
+    ],
+    "soft_skills": [
+      "Leadership",
+      "Collaboration",
+      "Teamwork",
+      "Adaptability",
+      "Problem-Solving",
+      "Conflict Resolution"
+    ]
+  },
+  "work_experience": [
+    {
+      "company": "Royal Bank of Canada",
+      "title": "Software Engineering Intern",
+      "location": "Toronto, Ontario",
+      "date_start": "2026-01",
+      "date_end": "Present",
+      "employment_type": "Internship",
+      "description": [
+        "Developing large-scale ETL pipelines using Spring Boot and Apache Airflow, supporting production-grade data workflows across distributed systems.",
+        "Implementing an internal AI agent automation platform using Next.js, Python, LangChain, and the OpenAI API to streamline ETL DAG management and governance processes.",
+        "Automating workflow improvements including code coverage validation, metadata analysis, automated email outreach to data source custodians, and generation of change requests and deployment artifacts."
+      ],
+      "technologies": [
+        "Spring Boot",
+        "Apache Airflow",
+        "Next.js",
+        "Python",
+        "LangChain",
+        "OpenAI API"
+      ]
+    },
+    {
+      "company": "Scotiabank",
+      "title": "Software Engineering Intern",
+      "location": "Toronto, Ontario",
+      "date_start": "2025-09",
+      "date_end": "2025-12",
+      "employment_type": "Internship",
+      "description": [
+        "Led the end-to-end implementation of semantic search for Scotiabank's enterprise search platform used by 89,000+ employees.",
+        "Designed and built a document chunking and vector embedding pipeline supporting KNN retrieval and relevance re-ranking across large internal knowledge bases.",
+        "Designed and deployed a dedicated Apache Solr index supporting semantic and hybrid search with custom schemas, ranking logic, and NLP-driven query pipelines."
+      ],
+      "technologies": [
+        "Next.js",
+        "Express.js",
+        "Google Cloud Platform (GCP)",
+        "Docker",
+        "Kubernetes",
+        "Apache Solr",
+        "Vector Embeddings",
+        "KNN Search",
+        "NLP"
+      ]
+    },
+    {
+      "company": "Sun Life Canada",
+      "title": "Software Engineering Intern",
+      "location": "Waterloo, Ontario",
+      "date_start": "2025-05",
+      "date_end": "2025-08",
+      "employment_type": "Internship",
+      "description": [
+        "Developed a Spring MVC dashboard with Thymeleaf, jQuery, and React to manage containerized Spring Boot APIs, reducing average incident detection time by 45%.",
+        "Automated namespace and project creation workflows through scripted pipelines and API integrations, reducing manual configuration time.",
+        "Implemented a GenAI-powered diagnostic feature for containerized APIs, reducing troubleshooting time by 35%."
+      ],
+      "technologies": [
+        "Spring MVC",
+        "Spring Boot",
+        "Thymeleaf",
+        "React",
+        "jQuery",
+        "GenAI"
+      ]
+    },
+    {
+      "company": "Sun Life Canada",
+      "title": "Backend Developer Intern",
+      "location": "Waterloo, Ontario",
+      "date_start": "2024-05",
+      "date_end": "2024-08",
+      "employment_type": "Internship",
+      "description": [
+        "Developed and deployed Spring Boot RESTful APIs using Jenkins, Kubernetes, and Docker.",
+        "Migrated APIs to Red Hat OpenShift, enabling secure data flow between Kafka topics and MongoDB databases.",
+        "Connected real-time data pipelines using Kafka APIs, consuming and producing to 5M+ message topics.",
+        "Spearheaded 20+ API releases and OpenShift migrations using Postman and Kubernetes for testing and monitoring."
+      ],
+      "technologies": [
+        "Spring Boot",
+        "REST APIs",
+        "Jenkins",
+        "Docker",
+        "Kubernetes",
+        "OpenShift",
+        "Kafka",
+        "MongoDB",
+        "Postman"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "ProgressX",
+      "type": "Full Stack Web Application",
+      "description": "Built a fitness social media platform for diet and progress photo tracking with semantic search for up-to-date fitness and wellness studies.",
+      "features": [
+        "Diet tracking",
+        "Progress photo tracking",
+        "Semantic search engine",
+        "Redis caching",
+        "Cloud deployment"
+      ],
+      "technologies": [
+        "Next.js",
+        "FastAPI",
+        "Apache Solr",
+        "Redis",
+        "AWS S3",
+        "Supabase",
+        "Google Compute Engine (GCE)"
+      ],
+      "metrics": {
+        "users": "100+"
+      }
+    },
+    {
+      "name": "YOU Dashboard",
+      "type": "Enterprise Management Software",
+      "description": "Developed enterprise software for a local nonprofit to manage client certificates and training progression.",
+      "features": [
+        "Certificate management",
+        "Training progression tracking",
+        "Enterprise dashboard"
+      ],
+      "technologies": [
+        "React",
+        "Express.js",
+        "PostgreSQL"
+      ],
+      "metrics": {
+        "projected_users": "1300+"
+      }
+    }
+  ]
+}
