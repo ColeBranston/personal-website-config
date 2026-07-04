@@ -192,6 +192,7 @@
     {
       "name": "Gone-Is-The-King",
       "type": "Unity C# Game",
+      "link": "https://github.com/ColeBranston/Gone-Is-The-King"
       "description": "Developed a C# 2D video game in which you play as a medieval knight and your choices decide your fate of the game.",
       "features": [
         "Design Patterns",
