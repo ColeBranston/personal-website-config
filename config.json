@@ -190,22 +190,18 @@
       }
     },
     {
-      "name": "YOU Dashboard",
-      "type": "Enterprise Management Software",
-      "description": "Developed enterprise software for a local nonprofit to manage client certificates and training progression.",
+      "name": "Gone-Is-The-King",
+      "type": "Unity C# Game",
+      "description": "Developed a C# 2D video game in which you play as a medieval knight and your choices decide your fate of the game.",
       "features": [
-        "Certificate management",
-        "Training progression tracking",
-        "Enterprise dashboard"
+        "Design Patterns",
+        "Software Design",
+        "SOLID Fundamentals"
       ],
       "technologies": [
-        "React",
-        "Express.js",
-        "PostgreSQL"
-      ],
-      "metrics": {
-        "projected_users": "1300+"
-      }
+        "C#",
+        "Unity"
+      ]
     }
   ]
 }
