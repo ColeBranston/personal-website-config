@@ -167,7 +167,7 @@
     {
       "name": "ProgressX",
       "type": "Full Stack Web Application",
-      "link": "https://github.com/ColeBranston/ProgressX"
+      "link": "https://github.com/ColeBranston/ProgressX",
       "description": "Built a fitness social media platform for diet and progress photo tracking with semantic search for up-to-date fitness and wellness studies.",
       "features": [
         "Diet tracking",
@@ -192,7 +192,7 @@
     {
       "name": "Gone-Is-The-King",
       "type": "Unity C# Game",
-      "link": "https://github.com/ColeBranston/Gone-Is-The-King"
+      "link": "https://github.com/ColeBranston/Gone-Is-The-King",
       "description": "Developed a C# 2D video game in which you play as a medieval knight and your choices decide your fate of the game.",
       "features": [
         "Design Patterns",
