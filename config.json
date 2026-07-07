@@ -230,6 +230,24 @@
         "Hugging Face",
         "Beautiful Soup"
       ]
+    },
+    {
+      "name": "Tally",
+      "type": "Tally Tracking Desktop Application",
+      "link": "https://github.com/ColeBranston/Tally",
+      "cover_image": "https://github.com/ColeBranston/Tally/blob/main/Tally_Main_Page.png",
+      "description": "This tally tracking desktop application allows you to create custom tally boards by which you track your contribution to either side.",
+      "features": [
+        "SQLite Database",
+        "CRUD",
+        "Desktop Installer",
+      ],
+      "technologies": [
+        "Electron.js",
+        "Vite",
+        "SQLite",
+        "Hash Page Routing"
+      ]
     }
   ]
 }
