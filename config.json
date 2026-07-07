@@ -240,7 +240,7 @@
       "features": [
         "SQLite Database",
         "CRUD",
-        "Desktop Installer",
+        "Desktop Installer"
       ],
       "technologies": [
         "Electron.js",
