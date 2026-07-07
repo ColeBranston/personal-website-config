@@ -215,7 +215,7 @@
     },
     {
       "name": "Debate.AI",
-      "type": "React FastAPI LLM Debate Simulator",
+      "type": "LLM Debate Simulator",
       "link": "https://github.com/ColeBranston/Debate.AI",
       "cover_image": "https://github.com/ColeBranston/Debate.AI/blob/main/image-3.png",
       "description": "This Web Application leverages the google flan extra large model, RAG methodlogy, and cosine similarity to simulate a disccusion between 2 bots about a entered topic.",
