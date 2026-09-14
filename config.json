@@ -82,9 +82,9 @@
       "date_end": "Present",
       "employment_type": "Internship",
       "description": [
-        "Developing large-scale ETL pipelines using Spring Boot and Apache Airflow, supporting production-grade data workflows across distributed systems.",
-        "Implementing an internal AI agent automation platform using Next.js, Python, LangChain, and the OpenAI API to streamline ETL DAG management and governance processes.",
-        "Automating workflow improvements including code coverage validation, metadata analysis, automated email outreach to data source custodians, and generation of change requests and deployment artifacts."
+        "Developed features and fixes across 150+ ETL pipelines built with Apache Airflow and Spring Boot, deployed on OpenShift, ingesting data from enterprise APIs into SQL Server to support tableau reporting across North America.",
+        "Prototyped an internal AI agent automation platform using Next.js, FastAPI, and LangChain/LangGraph with frontier models, streamlining ETL DAG governance and automation workflows.",
+        "Built and deployed MCP (Model Context Protocol) servers using FastMCP, exposing 20+ custom tools for secure database querying with schema and codebase context, Jira scraping, Webex messaging, and Active Directory (AD) group and user lookups, cutting ticket debugging time from 10+ minutes to under 30 seconds."
       ],
       "technologies": [
         "Spring Boot",
